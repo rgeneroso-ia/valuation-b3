@@ -1,7 +1,7 @@
 {
   "source": "brapi.dev",
   "delayed": true,
-  "fetchedAt": "2026-09-07T21:32:21.845Z",
+  "fetchedAt": "2026-09-08T00:24:19.443Z",
   "quotes": [
     {
       "symbol": "PETR4",
@@ -40,7 +40,7 @@
       "name": "Banco ABC Brasil",
       "price": 24.58,
       "change": -1.05,
-      "marketTime": "2026-09-07T21:29:30.000Z",
+      "marketTime": "2026-09-07T21:30:30.000Z",
       "logoUrl": "https://icons.brapi.dev/icons/ABCB4.svg"
     },
     {
@@ -104,7 +104,7 @@
       "name": "Wiz Co",
       "price": 8.1,
       "change": 0.25,
-      "marketTime": "2026-09-07T21:29:30.000Z",
+      "marketTime": "2026-09-07T21:30:30.000Z",
       "logoUrl": "https://icons.brapi.dev/icons/WIZC3.svg"
     },
     {
@@ -144,7 +144,7 @@
       "name": "Guardian Real Estate",
       "price": 8.34,
       "change": -0.48,
-      "marketTime": "2026-09-07T21:29:30.000Z",
+      "marketTime": "2026-09-07T21:30:30.000Z",
       "logoUrl": "https://icons.brapi.dev/icons/GARE11.svg"
     },
     {
@@ -152,7 +152,7 @@
       "name": "Polo Crédito Imobiliário",
       "price": 8.42,
       "change": 0,
-      "marketTime": "2026-09-07T21:26:30.000Z",
+      "marketTime": "2026-09-07T21:30:30.000Z",
       "logoUrl": "https://icons.brapi.dev/icons/PORD11.svg"
     }
   ]
